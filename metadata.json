@@ -1,0 +1,8 @@
+{
+  "name": "Lá Chắn Số - CyberShield",
+  "description": "Game tương tác nâng cao nhận thức lừa đảo trực tuyến tại Việt Nam",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
